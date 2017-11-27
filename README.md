@@ -20,4 +20,4 @@ This challenge is programming language agnostic! Pick whichever language you're 
 SideNote:
 
 I have chosen to do the First Line Item (RGB Bitmap picture)
-I have worked by hosting it off of a local server using simpleHTTPServer to avoid cross origin site request errors
+I have worked by hosting it off of a local server using simpleHTTPServer to avoid cross origin resource sharing errors
